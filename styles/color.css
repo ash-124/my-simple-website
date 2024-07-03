@@ -6,6 +6,13 @@ div{
 
 
 }
+
+
 .head{
-    color: brown;
+    color: rgb(165, 122, 42);
+}
+li{
+    border-color: cadetblue;
+   font-style: italic;
+   font: bold;
 }
